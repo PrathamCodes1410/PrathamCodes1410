@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratham Thakkar</h1>
 <h3 align="center">A passionate developer from India, who is intrested in and looking for oppurtunities to work in web3.</h3>
 
-- 🌱 I’m currently learning **Django Framwork and React.js**
+- 🌱 I’m currently learning **Django Framework and React.js**
 
 - 📫 How to reach me **prathamdt@gmail.com**
 
